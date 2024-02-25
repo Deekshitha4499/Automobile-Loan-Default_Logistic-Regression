@@ -5,6 +5,6 @@ An NBFI is struggling to mark profits due to an increase in defaults in the vehi
 Goal:
 The goal of the problem is to predict whether a client will default on the vehicle loan payment or not.
 
-In this Data-set,have done data preprocessing,Data wrangling, Performed EDA, develope a model to perform Logistic Regression and find the accuracy of model. Also done Tuning of the model by using Grid Search CV tuning method and RandomSerach Tuning method. 
-Ploted Precision-Recall Curves(PRC) and Receiver Operating Characteristic Curve (ROC) , also ploted confusion matrix before and after the tuning.
+In this Data-set,have done data preprocessing,Data wrangling, Performed EDA, developed a model to perform Logistic Regression and find the accuracy of model. Also done Tuning of the model by using Grid Search CV tuning method and RandomSearch Tuning method. 
+Plotted Precision-Recall Curves(PRC) and Receiver Operating Characteristic Curve (ROC) , also plotted confusion matrix before and after the tuning.
 Also performed Support Vector Machine(SVM),Naive Bayes and K-Nearest Neighbors (KNN) in this dataset as well.
